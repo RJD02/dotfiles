@@ -1,0 +1,28 @@
+D:\whiteklay\
+|s
+|.
+mkdir dotfiles
+cd dotfiles\
+git init
+cp "C:\Users\Raviraj Dulange\AppData\Local\nvim
+cp "C:\Users\Raviraj Dulange\AppData\Local\nvim\
+|s
+cp "C:\Users\Raviraj Dulange\AppData\Local\nvim\. ./nvim
+cp -r "C:\Users\Raviraj Dulange\AppData\Local\nvim\ ./nvim
+cp -r "C:\Users\Raviraj Dulange\AppData\Local\nvim\ .
+cp -r "C:\Users\Raviraj Dulange\AppData\Local\nvim\* .
+e.
+|s
+cd nvim\
+|s
+rm -rf .git
+ls
+la
+..
+|s
+git add .
+gs
+git commit -m "Nvim-config"
+git remote add origin https://github.com/RJD02/nvim-config.git
+git push origin master 
+cp -r C:\cmder\ ./cmder

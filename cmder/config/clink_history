@@ -1,0 +1,1128 @@
+|CTAG_1697718680_13296265_15088_0
+|:\whiteklay\dds_utilities\
+|s
+|s
+|it branch -a
+|it branch -a
+git remote -v
+git checkout -b refactor
+|nv\Scripts\activate.bat 
+|s
+|it checkout dev 
+|s
+|s
+|s
+git config --global credential.helper store
+git config --global credential.helper cache
+|it checkout refactor 
+|s
+git del app.py 
+g++
+clang
+|link update 
+git
+|:\whiteklay\dds_utilities\
+|s
+|s
+touch something.txt
+|s
+alias gs=git status
+|s
+git add something.txt 
+|s
+git restore --staged something.txt 
+|s
+del something.txt 
+alias vim=nvim #*
+unalias vim
+|im .
+alias.cmd vim=nvim $*
+|im .
+|nv\Scripts\activate.bat 
+|im .
+|:\whiteklay\dds_utilities\
+|nv\Scripts\activate.bat 
+|:\whiteklay\dds_utilities\
+|s
+|nv\Scripts\activate.bat 
+|:\
+mkdir leetcode
+|d leetcode\
+mkdir 2023
+|d 2023\
+mkdir october
+|d october\
+|s
+touch backspace_string_compare.cpp
+|im .
+|im .
+D:\leetcode\2023\october\
+|s
+|++ -std=c++17 backspace_string_compare.cpp -o a.out
+|.out < input.txt 
+|++ -std=c++17 backspace_string_compare.cpp -o a.out
+|.out < input.txt 
+|++ -std=c++17 backspace_string_compare.cpp -o a.out
+|.out < input.txt 
+g++ -std=c++17 backspace_string_compare.cpp -o a.out
+a.out < input.txt 
+\white
+D:\whiteklay\
+|s
+git clone https://github.com/microui-team/Deduplication.git 
+|s
+|d Deduplication\
+|s
+|ode .
+|:\whiteklay\dds_utilities\
+|s
+|nv\Scripts\activate.bat 
+|im .
+|im .
+|im .
+|im .
+|.\Deduplication\
+|s
+git checkout dev
+git checkout -b dev
+|ython src\main.py 
+|s
+|a
+|s
+|s src\
+|a
+|s src\
+|here python
+D:whiteklay\dds_utilities\
+|nv\Scripts\activate.bat 
+|it checkout dev 
+git stash .
+|s
+|it stash 
+|it checkout refactor 
+|it stash pop
+|s
+|it add .
+git checkout -m "Create data layer and move ddl commands into server classes"
+|s
+git commit -m "Create data layer and move ddl commands into server classes"
+|s
+|it checkout dev 
+|s
+|it push origin dev 
+|l
+git checkout refactor 
+|s
+|.\Deduplication\
+|s
+|nv\Scripts\activate.bat 
+|s
+|nv\Scripts\deactivate.bat 
+|s
+|nv\Scripts\activate.bat 
+|s
+|hich pip
+pip install -r src\requirements.txt 
+|ython src\main.py 
+|otepad .env 
+|ython src\main.py 
+|otepad .env 
+|s
+|s src\
+ls src\hospital\
+|s
+|s dedup-data\
+ls dedup-data\
+|ython src\main.py 
+D:whiteklay\dds_utilities\
+|nv\Scripts\activate.bat 
+|treamlit run app.py 
+|treamlit run app.py 
+|.\Deduplication\
+|s
+..\dds_utilities\env\Scripts\deactivate.bat 
+|nv\Scripts\activate.bat 
+|s
+|d src\
+|s
+|a
+alias la=ls -a --color=auto
+|a
+|.
+|s
+touch my.log
+|s
+|s src\
+touch src\my.log
+cat src\my.log 
+|at my.log 
+|at log.json 
+|at log.json 
+|:\whiteklay\Deduplication\
+|s
+|here python
+"C:\Users\Raviraj Dulange\AppData\Local\Programs\Python\Python39\python.exe" -m venv ./env
+|s
+|nv\Scripts\activate.bat 
+|here python
+|im .
+|im .
+|im .
+|im .
+|s
+|:\whiteklay\dds_utilities\
+|nv\Scripts\activate.bat 
+|.\Deduplication\
+|s
+|here python
+|.\dds_utilities\env\Scripts\deactivate.bat 
+..\dds_utilities\env\Scripts\deactivate.bat 
+|nv\Scripts\activate.bat 
+pip install black
+|s
+|at my.log 
+|at src\my.log 
+|s
+|at log.json 
+|at my.log 
+|at src\my.log 
+|at my.log 
+|at src\my.log 
+|at my.log 
+|at src\my.log 
+|s
+|s src\
+|s
+|at my.log 
+cat src\my.log 
+|at my.log 
+|:\whiteklay\Deduplication\
+|s
+|im .
+|nv\Scripts\activate.bat 
+|:\whiteklay\Deduplication\
+|nv\Scripts\activate.bat 
+|ython src\example.py 
+|s
+|at example.log 
+|ython src\example.py 
+|at example.log 
+|ython src\example.py 
+cat example.log 
+|ython src\main.py 
+|:\whiteklay\Deduplication\
+|nv\Scripts\activate.bat 
+|ython src\main.py 
+|:\whiteklay\Deduplication\
+|nv\Scripts\activate.bat 
+|at my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|s
+|at log.json 
+cat example.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|s
+|s
+|at my.log 
+cat src\logger.ini 
+|at my.log 
+|s
+|s src\
+|.
+|d Deduplication\
+|s
+cat log.json 
+|s
+|s src\
+|s
+|s src\
+|s
+del my.log log.json 
+|s
+ls src\
+|s
+|./
+../
+mkdir spotify
+|d spotify\
+git clone https://github.com/GopalSaraf/Spotify_Crack_For_MacOS-Windows-Linux.git
+|s
+ren Spotify_Crack_For_MacOS-Windows-Linux spotify
+|s
+cd spotify\
+|s
+../ded
+..\..\whiteklay\Deduplication\
+|s
+which pip
+pip install loguru
+|s
+|at my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+truncate.exe my.log 
+|runcate.exe -s 0 my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|s
+git add .env .gitignore 
+git commit -m "Change ignore files"
+|s
+git diff src\hospital\constants.py 
+|it restore .
+|s
+|el example.log my.log src\example.py src\hospital\logger.py src\logger.ini 
+|el example.log my.log src\example.py src\hospital\logger.py src\logger.ini 
+|el example.log my.log src\example.py src\hospital\logger.py src\logger.ini 
+|el example.log my.log src\example.py src\hospital\logger.py src\logger.ini 
+|el example.log my.log src\example.py src\hospital\logger.py src\logger.ini 
+del example.log my.log src\example.py src\hospital\logger.py src\logger.ini 
+del exam
+|s
+|s
+|it stash 
+|it checkout main 
+notepad .env 
+|it checkout dev 
+|s
+|s
+|it stash pop
+|at my.log 
+|at my.log 
+|:\whiteklay\Deduplication\
+|nv\Scripts\activate.bat 
+|ython src\main.py 
+|s
+|s
+|s
+|it branch -a
+|ython src\main.py 
+|ython src\main.py 
+|:\whiteklay\Deduplication\
+|s
+|nv\Scripts\activate.bat 
+|im .
+|im .
+|im .
+|im .
+|:\whiteklay\Deduplication\
+|nv\Scripts\activate.bat 
+|ython src\main.py 
+|:\whiteklay\Deduplication\
+env
+|nv\Scripts\activate.bat 
+|it stash list 
+git stash list 
+|ython src\main.py 
+|:\whiteklay\Deduplication\
+|nv\Scripts\activate.bat 
+|ython src\main.py 
+|ython src\main.py 
+|:\whiteklay\Deduplication\
+|nv\Scripts\activate.bat 
+|:\whiteklay\Deduplication\
+|nv\Scripts\activate.bat 
+|ython src\main.py 
+|ython src\main.py 
+|ython src\main.py 
+|ython src\main.py 
+|ython src\main.py 
+|ython src\main.py 
+|ython src\main.py 
+|ython src\main.py 
+|ython src\main.py 
+|ython src\main.py 
+|ython src\main.py 
+|ython src\main.py 
+|:\whiteklay\Deduplication\
+|nv\Scripts\activate.bat 
+|at my.log 
+|runcate.exe -s 0 my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|runcate.exe -s 0 my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|runcate.exe -s 0 my.log 
+|at my.log 
+|at my.log 
+|runcate.exe -s 0 my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|runcate.exe -s 0 my.log 
+|at my.log 
+|at my.log 
+|runcate.exe -s 0 my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|runcate.exe -s 0 my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|runcate.exe -s 0 my.log 
+|at my.log 
+|runcate.exe -s 0 my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|runcate.exe -s 0 my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|runcate.exe -s 0 my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|runcate.exe -s 0 my.log 
+|at my.log 
+|at my.log 
+truncate.exe -s 0 my.log 
+|at my.log 
+|at my.log 
+|at my.log 
+|s
+|s
+|s
+|it add .gitignore 
+git commit -m "Add env file to git ignore"
+|s
+|s
+|s
+|it add .gitignore 
+git commit -m "Add parquet file to git ignore"
+|s
+|it diff src\model.py 
+|s
+git diff src\model.py 
+|it diff src\main.py 
+|s
+|it diff src\api_utilities.py 
+|s
+git add src\api_utilities.py src\main.py src\model.py 
+git commit -m "Add logging functionality"
+|s
+|s
+git add .gitignore 
+git commit -m "Add log files to git ignore"
+|s
+|it push origin dev 
+|ython src\example.py 
+python src\example.py 
+|s
+pip install sqlalchemy psycopg2-binary
+cat ..\dds_utilities\db\db.py 
+cat ..\dds_utilities\.env 
+vim .env 
+np .env 
+notepad .env
+|s
+del src\example.py 
+|s
+git add src\main.py src\model.py src\db\
+git commit -m "Add database connection and send logs to database(postgres)"
+|s
+|it push origin dev 
+|s
+pip uninstall loguru 
+|s
+pip freeze > src\requirements.txt 
+cat src\requirements.txt 
+|s
+git diff src\requirements.txt 
+|s
+git add src\requirements.txt 
+git commit -m "Update the requirements list"
+|it push origin dev 
+|at .env 
+|:\whiteklay\Deduplication\
+|s
+|nv\Scripts\activate.bat 
+|im .
+|im .
+|im .
+|im .
+|.\dds_utilities\
+|s
+..\Deduplication\env\Scripts\deactivate.bat 
+|im .
+|:\whiteklay\Deduplication\
+|s
+|nv\Scripts\activate.bat 
+clip < src\hospital\sample_input.json
+|im .
+|s
+|s
+git restore src\model.py 
+|it checkout main 
+|it pull origin main 
+|s
+|it branch -d dev 
+|it branch -a
+|it checkout main 
+git checkout origin/main 
+|it checkout main 
+|it branch -a
+git checkout origin/BT-473-ApiDevelopment-For-HospitalDedupe 
+git checkout main i
+|it checkout main 
+|it branch -a
+touch app.js
+vim app.js 
+del app.js 
+|:\whiteklay\Deduplication\
+|nv\Scripts\activate.bat 
+|s
+cat .gitignore 
+|s
+|s
+clip < .env 
+|at .env 
+git rm --cached .env 
+|s
+git commit -m "Delete env file"
+|s
+|it push origin dev 
+|it push origin dev 
+|it push origin dev 
+|s
+|a
+|at .env 
+|s
+|s
+|a
+|s
+git add .gitignore environment.txt 
+|it commit --amend
+|l
+|s
+git add src\db\db.py src\main.py 
+git commit -m "Handle session in db file"
+|s
+|l
+|s
+git diff
+|it diff src\db\db.py 
+|s
+git add src\db\db.py 
+|it commit --amend 
+|l
+|s
+|it push origin dev 
+|it pull origin dev 
+|s
+|it push origin dev 
+|s
+|s
+git diff src\db\db.py 
+git diff src\main.py 
+|s
+git add src\
+|s
+git commit -m "Add time taken field"
+|s
+|it push origin dev 
+|s
+|it add .
+git commit --amend 
+|s
+|it push origin dev 
+|it pull origin dev 
+|s
+git commit --amend
+|s
+|l
+|s
+|l
+|it pull origin dev 
+|it push origin dev 
+|s
+git restore src\main.py 
+|s
+clip < src\hospital\sample_input.json 
+|s
+|it add .
+|s
+git diff src\api_utilities.py 
+|s
+git restore --staged src\api_utilities.py 
+|:\whiteklay\Deduplication\
+|s
+|nv\Scripts\activate.bat 
+|ython src\main.py 
+|ython src\main.py 
+|ython src\main.py 
+|ython src\main.py 
+python src\main.py 
+|s
+|s
+|it diff environment.txt 
+git restore --staged environment.txt 
+git diff environment.txt 
+git add environment.txt 
+|s
+git restore --staged src\db\db.py 
+git diff src\db\db.py 
+git add src\db\db.py 
+git commit -m "Add type annotation to response_ms parameter, make environment txt file more generic"
+|s
+|it pull origin dev 
+|it push origin dev 
+|ython
+|s
+|:\whiteklay\Deduplication\
+|s
+|nv\Scripts\activate.bat 
+|:\whiteklay\Deduplication\
+|nv\Scripts\activate.bat 
+|s
+|nv\Scripts\deactivate.bat 
+|.\dds_utilities\
+|nv\Scripts\activate.bat 
+|s
+|it add .
+git commit -m "Refactor into oop style"
+|s
+|.
+cp -r . ../dds-zip
+|s
+|it restore .
+|s
+|it restore .
+|s
+|s
+|s
+|it restore .
+|s
+|it add .
+git commit -m "Remove individual tablename dependencies from functions and pass metadata reflected tables, reformat the config3.json file for parsing purpose, add schema namewhen requesting for table"
+|it branch -a
+|it checkout dev 
+git merge refactor 
+|s
+|s
+|it push origin dev 
+rm -rf ..\dds-zip
+cp -r . ..\dds-zip
+|s
+|s
+cat .env.swp 
+|:\whiteklay\Deduplication\
+|s
+|nv\Scripts\activate.bat 
+|nv\Scripts\deactivate.bat 
+|.\dds_utilities\
+|s
+|s
+|s
+|im .
+|nv\Scripts\activate.bat 
+|im .
+|s
+|:\whiteklay\Deduplication\
+|nv\Scripts\activate.bat 
+|.
+|.
+|s
+cd whiteklay\
+mkdir sys-design
+cd sys-design\
+|it clone https://github.com/Nitin96Bisht/System-Design.git .
+git clone https://github.com/Nitin96Bisht/System-Design.git .
+|s
+|a
+env\Scripts\dea
+|.
+|d dds_utilities\
+|.
+rm -rf dds
+|d dds_utilities\
+|s
+|here python
+..\Deduplication\
+|s
+|nv\Scripts\deactivate.bat 
+|.\dds_utilities\
+|nv\Scripts\activate.bat 
+|.
+|i .env 
+|s
+|a
+|at .env 
+|i .env 
+vi .env 
+|:\whiteklay\Deduplication\
+|nv\Scripts\activate.bat 
+|nv\Scripts\deactivate.bat 
+|.\dds_utilities\
+|nv\Scripts\activate.bat 
+|s
+|treamlit run app.py 
+|treamlit run app.py 
+|treamlit run app.py 
+|treamlit run app.py 
+|treamlit run app.py 
+|:\whiteklay\dds_utilities\
+|s
+|nv\Scripts\activate.bat 
+|treamlit run app.py 
+|s
+ls sr
+|s
+ls data_layer\
+|s
+|s
+..\dds_utilities-go\
+|s
+go run main.go 
+|:\whiteklay\dds_utilities\
+|nv\Scripts\activate.bat 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+D:\whiteklay\dds_
+|s
+|:\whiteklay\dds_utilities\
+|s
+|s
+|s
+git diff config_files\config.json 
+vim config_files\config.json 
+|s
+git diff data_layer\postgres.py 
+|s
+|it add .
+git commit -m "Make alter table queries of format schema_name.table_name"
+git checkout -b remote-desktop-v
+|s
+|im .
+|nv\Scripts\activate.bat 
+|im .
+|s
+|s
+|it stash 
+|s
+|it checkout dev 
+git checkout remote-desktop-v \
+git checkout remote-desktop-v 
+git stash pop 
+|nv\Scripts\activate.bat 
+env\Scripts\deactivate.bat 
+|.
+|s
+mkdir dds_utilities-go
+cd dds_utilities-go\
+|s
+go mod init github.com/microui-teams/dds-utilities/
+|s
+go mod init github.com/microui-teams/dds-utilities
+|s
+touch main.go
+|im .
+java --version
+java -version
+|:\whiteklay\dds_utilities\
+|s
+|:\whiteklay\dds_utilities\
+|s
+|.
+|s
+del dds_zip-new.zip 
+|ar -czvf dds-zip-new.zip dds_utilities
+tar -czvf dds-zip-new.zip dds_utilities\
+tar -czvf dds-zip-new.zip dds_utilities
+|s
+tar -tzvf dds-zip-new.zip 
+|.
+|d dds_utilities\
+|s
+|s
+git diff app.py 
+sublime
+|s
+|it add .
+git commit -m "Make app ready for remote desktop(vdi)"
+|it checkout dev 
+git merge remote-desktop-v 
+|s
+git branch -d refactor 
+git branch -d remote-desktop-v 
+gd
+|s
+git restore .
+|s
+|it add .
+git commit -m "Make app show conflict when varchar length is different"
+|s
+|it push origin dev 
+D:\whiteklay\dds_utilities
+D:\whiteklay\dds_utilities-go\
+|s
+|.
+rm -r dds_utilities-go\
+|s
+cd spark-3.5.0-bin-hadoop3\
+|s
+ls python\
+ls python\pyspark\
+|s
+ls bin\
+bin\pyspark
+..\dds_utilities\
+|s
+|nv\Scripts\activate.bat 
+|treamlit run app.py 
+|im .
+:q
+clink update 
+|:\whiteklay\dds_utilities\
+|s
+|s
+git diff db\util.py 
+git diff example.py 
+|ip
+|.
+tar -czvf dds_utilities.zip dds_utilities\
+|ar -czvf dds_zip-new.zip dds_utilities
+|s
+|d dds_utilities\
+|nv\Scripts\activate.bat 
+|treamlit run app.py 
+|:\whiteklay\dds_utilities\
+|s
+|s
+|s
+git branch
+|nv\Scripts\activate.bat 
+git checkout -b table-creation-option
+|s
+git stash 
+|it checkout dev 
+|s
+|s
+git checkout table-creation-option 
+git stash pop
+|l
+|ython
+python 
+|lack .
+|s
+|it add .
+git commit -m "Add option to create table if table doesn't already exists(only for temp and prod)
+|l
+|s
+|ash
+bash
+|:\whiteklay\dds_utilities\
+|s
+|im .
+vim --startuptime .
+|vim --startuptime .
+nvim -startuptime .
+nvim --startuptime .
+nvim --startuptime my.log
+|at my.log 
+|s
+|s
+vim --startuptime my.log
+|at my.log 
+vim . --startuptime my.log 
+cat my.log 
+|s
+|im .
+|nv\Scripts\activate.bat 
+|im .
+|s
+|s
+|a
+|s
+|im .
+code .
+|im .
+|.
+|.
+|s
+|d leetcode\
+|s
+|:\whiteklay\dds_utilities\
+|s
+|treamlit run app.py 
+|nv\Scripts\activate.bat 
+|treamlit run app.py 
+|:\whiteklay\dds_utilities\
+|nv\Scripts\activate.bat 
+|treamlit run app.py 
+|:\whiteklay\dds_utilities\
+|s
+|nv\Scripts\activate.bat 
+vim example.py 
+|ython
+|:\whiteklay\dds_utilities\
+|nv\Scripts\activate.bat 
+|ython
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|:\whiteklay\dds_utilities\
+|s
+|s
+|nv\Scripts\activate.bat 
+|im .
+|im .
+|:\whiteklay\dds_utilities\
+|nv\Scripts\activate.bat 
+|s
+|s
+|im .
+|s
+|:\whiteklay\dds_utilities\
+|nv\Scripts\activate.bat 
+python
+|s
+black .
+|s
+|s
+|s
+|it add .
+git commit -m "Fix issue of timestamp conflicting, create a mapping for mssql and postgresql, refactor to fit these changes"
+|s
+git branch -a
+|it checkout dev 
+|s
+|it checkout generic-db 
+|s
+git merge table-creation-option 
+|s
+|it checkout dev 
+|it merge generic-db 
+gl
+|s
+git pull origin dev 
+zip
+7za
+|.
+|s
+rm dds-zip-new.zip 
+rm dds-zip
+rm -r dds-zip
+|s
+rm "dds_utilities (2).zip" 
+rm dds-zip.zip 
+|s
+tar -czvf dds_zip-new.zip dds_utilities
+dir /s dds_utilities
+dir /s dds_utilities\
+|s
+del dds_utilities.zip 
+python --version
+where python
+which python
+|.
+|s
+cd dds_utilities\
+|s
+|it add .
+git commit -m "Refactor column existance logic into respective methods"
+|s
+git checkout -b replace-configs
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+|ython example.py 
+D:\whiteklay\Deduplication\
+|s
+cat .en
+|.
+|s
+cd Deduplication\
+|s
+cd src\
+|s
+|a
+|im .
+|.
+|im .
+|s
+|a
+|.
+|im .
+|.
+|s
+git branch -a
+|it checkout dev 
+|s
+|a
+cat .env 
+|it checkout main 
+git branch -d dev 
+|s
+git push origin -d dev
+git pull origin main 
+|:\whiteklay\dds_utilities\
+|nv\Scripts\activate.bat 
+|treamlit run app.py 
+D:\whiteklay\dds_utilities\
+env\Scripts\activate.bat 
+streamlit run app.py 
+D:\whiteklay\dds_utilities\
+env\Scripts\activate.bat 
+|s
+git restore app.py 
+|s
+git add app.py 
+git commit -m "Fix issue of short column width by converting dataframe to html and then rendering without it's index"
+|it checkout dev 
+|s
+git merge replace-configs 
+|it branch -d generic-db 
+|it merge generic-db 
+|it branch -d generic-db 
+git checkout generic-db 
+|s
+git push origin generic-db 
+git checkout dev 
+git merge generic-db 
+git branch -d generic-db 
+git push origin -d generic-db
+|s
+git push origin dev 
+e.
+|ython example.py 
+|ython example.py 
+python example.py 
+D:\whiteklay\dds_utilities\
+|s
+env\Scripts\activate.bat 
+|s
+|s
+|s
+|it checkout main 
+|s
+git add db\util.py 
+git commit -m "Commit only when required"
+git checkout main 
+git merge dev 
+|s
+git checkout dev 
+|im .
+"C:\Users\Raviraj Dulange\AppData\Local\nvim
+"C:\Users\Raviraj Dulange\AppData\Local\nvim\
+|s
+|im .
+D:\whiteklay\dds_utilities\
+|s
+|it commit -m "Replace configs with dropdown box with (schema_name, table_name) as options"
+|it add .
+git commit -m "Replace configs with dropdown box with (schema_name, table_name) as options"
+env\Scripts\activate.bat 
+|im .
+D:\
+|s
+cd leetcode\
+|s
+cd 2023\
+|s
+cd october\
+..
+mkdir november
+|s
+cd november\
+|s
+git clone https://github.com/RJD02/Pig-Game-zaid.git .
+|s
+del *
+|s
+|a
+del .git\
+|s
+|a
+git clone https://github.com/RJD02/Pig-Game-zaid.git game-zaid
+rm -rf .git\
+|s
+la
+cd game-zaid\
+ls
+|im .
+|s
+git add .
+git commit -m "Make design responsive"
+|it push origin master 
+|it pull origin master 
+|s
+|s
+|it push origin master 
+git pull origin master 
+gs
+git push origin master 
+vim .
+D:\leetcode\2023\november\game-zaid\
+ls
+npm i -g live-server
+live-server.cmd .
+gs
+git add .
+git commit -m "Make design responsive on small heights"
+git push origin de
+git push origin master 
